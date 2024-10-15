@@ -1,0 +1,6 @@
+@MigrationCaseBug_HostAddress = http://localhost:5276
+
+GET {{MigrationCaseBug_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
